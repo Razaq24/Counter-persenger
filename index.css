@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://img.freepik.com/free-photo/inside-empty-subway-train_181624-1648.jpg?w=360&t=st=1720534764~exp=1720535364~hmac=1e83e0986f7452384735430fe88739e1308127f241c121c53659aff9f5512621");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+div{
+    max-width: 400px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#save-el {
+    color: white;
+}
+
+button {
+    border: 3px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+
+
